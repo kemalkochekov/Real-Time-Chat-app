@@ -1,0 +1,13 @@
+{
+  "Server": {
+    "Host": "localhost:8080"
+  },
+  "Postgres" :{
+    "Host": "localhost",
+    "Port": 5432,
+    "User": "user",
+    "Password": "test",
+    "DBName": "chat_app"
+  },
+  "SecretKey": "secret"
+}
